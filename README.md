@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Lina Yeo
-- 👀 I’m interested in designing and creating creative design to attract users 
-- 🌱 I’m currently learning Computer Systems and Networking, Bachelor of Technology in Curtin University Malaysia
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in design and app development
+- 🌱 I’m a Final Year student of Bachelor of Technology(Computer Systems and Networking) in Curtin University Malaysia
 - 📫 You can reach me by email, my email is yeolina57@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Very interested in designing and creating 
 
 <!---
 DevClare/DevClare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
